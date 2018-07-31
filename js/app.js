@@ -1,0 +1,1 @@
+document.write('<h2 style="color: red; padding: 7px;">Jungle Stadium</h2>');
